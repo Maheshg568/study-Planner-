@@ -1,0 +1,5 @@
+{
+  "name": "Study Planner",
+  "description": "A modern Study Planner web app with task management, subjects, progress tracking, and a Pomodoro timer.",
+  "requestFramePermissions": []
+}
